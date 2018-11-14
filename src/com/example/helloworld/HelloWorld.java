@@ -10,7 +10,7 @@ public class HelloWorld {
         System.out.println("hello world my name is navi3!!");
         System.out.println("hello world my name is navi4!!");
         System.out.println("hello world my name is branch1/2!!");
-        System.out.println("hello world my name is branch2!!");
+        System.out.println("hello world my name is branch24!!");
         System.out.println("hello world my name is master!!");
     }
 }
